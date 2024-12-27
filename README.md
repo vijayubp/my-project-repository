@@ -1,3 +1,9 @@
 # my-project-repository
+
 My first git hub repository 
-ReadMe.rd file updated manually
+The file was modified manually while resolving conflicts
+
+
+New line adde locally
+
+updated in feature-1 branch

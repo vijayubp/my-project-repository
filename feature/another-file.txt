@@ -1,0 +1,2 @@
+Just another file in feature file.
+this file was modified locally
